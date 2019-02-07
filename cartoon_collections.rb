@@ -1,5 +1,5 @@
 def roll_call_dwarves
- puts ["Dopey", "Grumpy", "Bashful"]
+ dwarves puts ["Dopey", "Grumpy", "Bashful"]
  roll_call_dwarves.each
 end
 
