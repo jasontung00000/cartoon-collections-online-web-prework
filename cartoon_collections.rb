@@ -1,8 +1,5 @@
-def roll_call_dwarves
+def roll_call_dwarves = ["Dopey", "Grumpy", "Bashful"]
  roll_call_dwarves
-["Dopey", "Grumpy", "Bashful"].each_with_index {index | roll_call_dwarves}
-end
-
 def summon_captain_planet# code an argument here
   # Your code here
 end
